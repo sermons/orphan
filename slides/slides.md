@@ -66,12 +66,12 @@
 <!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" id="outline" -->
 ## Orphaned but not Unloved [(1Thes2)](# "ref")
 <!-- .element: class="r-fit-text" -->
-
 When we feel:
-
 1. Directionless [(v13)](# "ref")
 1. Attacked [(v14-16)](# "ref")
 1. Forgotten [(v17-20)](# "ref")
+
+<!-- .element: style="font-size: 1.4em" -->
 
 >>>
 + Looking for **wisdom**, guidance, mentorship: find none
