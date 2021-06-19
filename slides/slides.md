@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> id="title" -->
 # Orphaned but <br> not Unloved
 <!-- .element: class="r-fit-text" -->
 
@@ -63,7 +63,7 @@
 + who endured great **suffering** for sake of gospel
 
 ---
-<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" id="outline" -->
 ## Orphaned but not Unloved [(1Thes2)](# "ref")
 <!-- .element: class="r-fit-text" -->
 
@@ -72,8 +72,6 @@ When we feel:
 1. Directionless [(v13)](# "ref")
 1. Attacked [(v14-16)](# "ref")
 1. Forgotten [(v17-20)](# "ref")
-
-<!-- .element: class="r-fit-text" -->
 
 >>>
 + Looking for **wisdom**, guidance, mentorship: find none
