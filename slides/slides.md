@@ -71,7 +71,7 @@ When we feel:
 1. Attacked [(v14-16)](# "ref")
 1. Forgotten [(v17-20)](# "ref")
 
-<!-- .element: style="font-size: 1.4em" -->
+<!-- .element: style="font-size: 1.6em" -->
 
 >>>
 + Looking for **wisdom**, guidance, mentorship: find none
@@ -146,7 +146,15 @@ this person will be blessed in what he does.
 + What is my **attitude** towards God's Word?
 
 ---
-## outline 2
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" -->
+## Orphaned but not Unloved [(1Thes2)](# "ref")
+<!-- .element: class="r-fit-text" -->
+When we feel:
+1. Directionless [(v13)](# "ref")
+1. **Attacked** [(v14-16)](# "ref")
+1. Forgotten [(v17-20)](# "ref")
+
+<!-- .element: style="font-size: 1.6em" -->
 
 >>>
 + When I feel **directionless** without a mentor:
@@ -255,7 +263,15 @@ But wrath has come upon them at last!
 + Who else has endured **suffering** for sake of gospel?
 
 ---
-## outline 3
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" -->
+## Orphaned but not Unloved [(1Thes2)](# "ref")
+<!-- .element: class="r-fit-text" -->
+When we feel:
+1. Directionless [(v13)](# "ref")
+1. Attacked [(v14-16)](# "ref")
+1. **Forgotten** [(v17-20)](# "ref")
+
+<!-- .element: style="font-size: 1.6em" -->
 
 >>>
 + **Expect** gospel to encounter **opposition**
