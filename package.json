@@ -1,15 +1,16 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/orphan",
+  "repository": "sermons/orphaned",
+  "description": "1Thes2: Orphaned but Not Abandoned",
   "keywords": [
-    "slides"
+    "sermon",
+    "1thessalonians"
   ],
   "version": "2.5.8",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "reveal-skel.seanho.com",
+    "cname": "orphan.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -27,7 +28,7 @@
       }
     ],
     "slides": [
-      "sample.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0",
     "mathjax": "https://cdn.jsdelivr.net/npm/mathjax@2",
