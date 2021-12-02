@@ -41,6 +41,8 @@
         <span class="links">
           <a href="<%= pkg.shortname %>.pdf">
             <i class="fas fa-file-pdf"></i></a>
+	  <a onclick='Reveal.getPlugin("notes").open()'>
+	    <i class="fas fa-comment"></i></a>
           <a href="https://github.com/<%= pkg.repository %>/actions/runs/<%= process.env.GITHUB_RUN_ID %>">
             <i class="fas fa-hammer"></i></a>
         </span>
@@ -70,7 +72,7 @@
 
     <script>
       mpkey = Reveal().getQueryHash().s || null
-      mpdep = '<%= pkg.config.multiplex.url %>' + (mpkey ? 'master' : 'client') + '.js'
+      mpdep = 'https://raw.githack.com/reveal/multiplex/master/' + (mpkey ? 'master' : 'client') + '.js'
 
       Reveal.initialize({
         display: 'flex',
