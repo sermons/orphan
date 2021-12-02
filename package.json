@@ -1,10 +1,11 @@
 {
   "name": "@sermons/orphan",
   "repository": "sermons/orphaned",
-  "description": "1Thes2:13-20 Orphaned but not Unloved",
+  "description": "1Thes2:13-20 孤兒，但不是不被愛的 Orphaned but not Unloved",
   "keywords": [
     "sermon",
-    "1thessalonians"
+    "1thessalonians",
+    "zh"
   ],
   "version": "2.5.9",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
