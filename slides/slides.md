@@ -45,7 +45,7 @@
 + To proclaim Your **Name** until the day of Your **return**
 
 ---
-<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> -->
 ## Growing Together, While Apart <br> 當分開時一起成長
  <!-- .element: class="r-fit-text" -->
 
@@ -67,13 +67,12 @@
 + who endured great **suffering** for sake of gospel
 
 ---
-<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" id="outline" -->
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> id="outline" -->
 ## Orphaned but not Unloved <br> 孤兒，但不是不被愛的
-
 When we feel 當我們感覺:
-1. Directionless 沒有方向 [(v13)](# "ref")
-1. Attacked 被攻擊 [(v14-16)](# "ref")
-1. Forgotten 被遺忘 [(v17-20)](# "ref")
+1. **Directionless** 沒有方向 [(v13)](# "ref")
+1. **Attacked** 被攻擊 [(v14-16)](# "ref")
+1. **Forgotten** 被遺忘 [(v17-20)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
@@ -174,16 +173,14 @@ this person will be blessed in what he does.
 + What is my **attitude** towards God's Word?
 
 ---
-<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> -->
 ## Orphaned but not Unloved <br> 孤兒，但不是不被愛的
-<!-- .element: class="r-fit-text" -->
-
 When we feel 當我們感覺:
 1. Directionless 沒有方向 [(v13)](# "ref")
 1. **Attacked 被攻擊** [(v14-16)](# "ref")
 1. Forgotten 被遺忘 [(v17-20)](# "ref")
 
-<!-- .element: style="font-size: 1.2em" -->
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + When I feel **directionless** without a mentor:
@@ -329,16 +326,14 @@ But **wrath** has come upon them at last!
 + Who else has endured **suffering** for sake of gospel?
 
 ---
-<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> -->
 ## Orphaned but not Unloved <br> 孤兒，但不是不被愛的
-<!-- .element: class="r-fit-text" -->
-
 When we feel 當我們感覺:
 1. Directionless 沒有方向 [(v13)](# "ref")
 1. Attacked 被攻擊 [(v14-16)](# "ref")
 1. **Forgotten 被遺忘** [(v17-20)](# "ref")
 
-<!-- .element: style="font-size: 1.2em" -->
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Expect** gospel to encounter **opposition**
