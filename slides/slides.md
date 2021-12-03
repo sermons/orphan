@@ -69,14 +69,13 @@
 ---
 <!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" id="outline" -->
 ## Orphaned but not Unloved <br> 孤兒，但不是不被愛的
-<!-- .element: class="r-fit-text" -->
 
 When we feel 當我們感覺:
 1. Directionless 沒有方向 [(v13)](# "ref")
 1. Attacked 被攻擊 [(v14-16)](# "ref")
 1. Forgotten 被遺忘 [(v17-20)](# "ref")
 
-<!-- .element: style="font-size: 1.2em" -->
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Looking for **wisdom**, guidance, mentorship: find none
@@ -157,7 +156,7 @@ this person will be blessed in what he does.
 <!-- .slide: data-background="white" -->
 # What is my **attitude** <br> towards God's **Word**?
 <!-- .element: class="r-fit-text" -->
-# 我對神的道的態度是什麼?
+# 我對神的道 <br> 的態度是什麼?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -239,7 +238,7 @@ and **drove** us out, and **displease** God
 ---
 and **oppose** all mankind <br>
 [16](# "ref")
-by hindering us from speaking to the Gentiles <br>
+by **hindering** us from speaking to the Gentiles <br>
 that they might be saved —
 
 且與眾人為敵；<br>
@@ -355,7 +354,7 @@ But since we were **torn away** from you, <br>
 brothers, for a short time, <br>
 in **person** not in **heart**, 
 
-弟兄們，我們暫時與你們離別，
+弟兄們，我們暫時與你們離別，<br>
 是面目離別，心裡卻不離別；
 
 [1 Thessalonians 帖撒羅尼迦前書 2:17a (ESV)](# "ref")
@@ -422,6 +421,7 @@ For you are our **glory and joy**.
 
 因為你們就是<br>
 我們的榮耀，我們的喜樂。
+
 [1 Thessalonians 帖撒羅尼迦前書 2:20 (ESV)](# "ref")
 
 >>>
