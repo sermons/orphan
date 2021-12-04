@@ -123,19 +123,20 @@ which is at work in you believers.
 
 ---
 But one who has **looked intently** <br>
-at the perfect law, the law of **freedom**, 
+at the perfect law, the law of **freedom**, <br>
+and has **continued** in it, 
 
 惟有詳細察看那全備、<br>
-使人自由之律法的，
+使人自由之律法的，<br>
+並且時常如此，
 
 [James 雅各書 1:25a (NASB)](# "ref")
 
 ---
-and has **continued** in it, not having become <br>
+not having become <br>
 a **forgetful hearer** but an **active doer**, <br>
 this person will be blessed in what he does.
 
-並且時常如此，<br>
 這人既不是聽了就忘，<br>
 乃是實在行出來，<br>
 就在他所行的事上必然得福。
