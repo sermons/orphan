@@ -2,8 +2,7 @@
 ## 1 Thessalonians 2:13-20
 
 [![Build status](https://github.com/sermons/orphan/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/orphan/actions/workflows/build.yml)
-[![David](https://img.shields.io/david/sermons/orphan)](https://david-dm.org/sermons/orphan)
-[![David (dev)](https://img.shields.io/david/dev/sermons/orphan)](https://david-dm.org/sermons/orphan?type=dev)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/reveal-skel)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
