@@ -1,8 +1,8 @@
 <!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> id="title" -->
-# Orphaned but not Unloved <br> 孤兒，但不是不被愛的
+# Orphaned but <br> not Unloved
 <!-- .element: class="r-fit-text" -->
 
-## 1 Thessalonians <br> 帖撒羅尼迦前書 2:13-20
+## 1 Thessalonians 2:13-20
 
 >>>
 + **Hard** to continue **growing** as Chr
@@ -17,8 +17,6 @@
 ---
 <!-- .slide: data-background="white" -->
 # How should I handle <br> **loneliness** in my <br> Christian walk?
-<!-- .element: class="r-fit-text" -->
-# 在我基督徒的日常中 <br> 如何處理寂寞?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -45,19 +43,17 @@
 + To proclaim Your **Name** until the day of Your **return**
 
 ---
-<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> -->
-## Growing Together, While Apart <br> 當分開時一起成長
- <!-- .element: class="r-fit-text" -->
-
-| *1* | Impact of **Faith** | 信心的影響 |
-|---|---|---|
-| *2a,b* | Toil of **Love** | 愛心的勞苦 |
-| *3* | Strength from **Hope** | 來自盼望的力量 |
-| *4* | Grow in Purity + **Love** | 在清潔和愛中成長 |
-| *5a* | **Hope** of Salvation | 救贖的盼望 |
-| *5b* | Acts of **Faith** | 信心的行為 |
-
+<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
+# Growing Together, While Apart
 <!-- .element: class="r-fit-text" -->
+
+| *1* | Impact of **Faith** | 
+|---|---|
+| *2a,b* | Toil of **Love** |
+| *3* | Strength from **Hope** |
+| *4* | Growing in Purity + **Love** |
+| *5a* | **Hope** of Salvation |
+| *5b* | Acts of **Faith** |
 
 >>>
 + Theme of 1Thess: encouragment **FHL**
@@ -67,14 +63,15 @@
 + who endured great **suffering** for sake of gospel
 
 ---
-<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> id="outline" -->
-## Orphaned but not Unloved <br> 孤兒，但不是不被愛的
-When we feel 當我們感覺:
-1. **Directionless** 沒有方向 [(v13)](# "ref")
-1. **Attacked** 被攻擊 [(v14-16)](# "ref")
-1. **Forgotten** 被遺忘 [(v17-20)](# "ref")
-
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" id="outline" -->
+## Orphaned but not Unloved [(1Thes2)](# "ref")
 <!-- .element: class="r-fit-text" -->
+When we feel:
+1. Directionless [(v13)](# "ref")
+1. Attacked [(v14-16)](# "ref")
+1. Forgotten [(v17-20)](# "ref")
+
+<!-- .element: style="font-size: 1.6em" -->
 
 >>>
 + Looking for **wisdom**, guidance, mentorship: find none
@@ -86,26 +83,14 @@ When we feel 當我們感覺:
 
 ---
 And we also thank God constantly for this, <br>
-that when you **received** the word of God, <br>
+that when you received the word of God, <br>
 which you heard from us, 
 
-為此，我們也不住的感謝神，<br>
-因你們聽見我們所傳<br>
-神的道就領受了；
-
-[1 Thessalonians 帖撒羅尼迦前書 2:13a (ESV)](# "ref")
-
----
-you accepted it not as the **word of men**<br>
-but as what it really is, the **word of God**, <br>
+you accepted it not as the word of men<br>
+but as what it really is, the word of God, <br>
 which is at work in you believers. 
 
-不以為是人的道，<br>
-乃以為是神的道。<br>
-這道實在是神的，<br>
-並且運行在你們信主的人心中。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:13b (ESV)](# "ref")
+[1 Thessalonians 2:13 (ESV)](# "ref")
 
 >>>
 + Pastor/evangel: preach **Word** vs speak as **indiv**
@@ -122,26 +107,15 @@ which is at work in you believers.
 + James 1 has **promise** for each:
 
 ---
-But one who has **looked intently** <br>
-at the perfect law, the law of **freedom**, <br>
-and has **continued** in it, 
+But one who has looked intently <br>
+at the perfect law, the law of freedom, 
 
-惟有詳細察看那全備、<br>
-使人自由之律法的，<br>
-並且時常如此，
+and has continued in it, not having become <br>
+a forgetful hearer but an active doer, 
 
-[James 雅各書 1:25a (NASB)](# "ref")
-
----
-not having become <br>
-a **forgetful hearer** but an **active doer**, <br>
 this person will be blessed in what he does.
 
-這人既不是聽了就忘，<br>
-乃是實在行出來，<br>
-就在他所行的事上必然得福。
-
-[James 雅各書 1:25b (NASB)](# "ref")
+[James 1:25 (NASB)](# "ref")
 
 >>>
 + "look intently": bend over / **stoop down**
@@ -154,9 +128,7 @@ this person will be blessed in what he does.
 
 ---
 <!-- .slide: data-background="white" -->
-# What is my **attitude** <br> towards God's **Word**?
-<!-- .element: class="r-fit-text" -->
-# 我對神的道 <br> 的態度是什麼?
+# What is my <br> **attitude** towards <br> God's **Word**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -174,14 +146,15 @@ this person will be blessed in what he does.
 + What is my **attitude** towards God's Word?
 
 ---
-<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> -->
-## Orphaned but not Unloved <br> 孤兒，但不是不被愛的
-When we feel 當我們感覺:
-1. Directionless 沒有方向 [(v13)](# "ref")
-1. **Attacked 被攻擊** [(v14-16)](# "ref")
-1. Forgotten 被遺忘 [(v17-20)](# "ref")
-
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" -->
+## Orphaned but not Unloved [(1Thes2)](# "ref")
 <!-- .element: class="r-fit-text" -->
+When we feel:
+1. Directionless [(v13)](# "ref")
+1. **Attacked** [(v14-16)](# "ref")
+1. Forgotten [(v17-20)](# "ref")
+
+<!-- .element: style="font-size: 1.6em" -->
 
 >>>
 + When I feel **directionless** without a mentor:
@@ -190,24 +163,15 @@ When we feel 當我們感覺:
   + Know that I'm not **alone** in suffering:
 
 ---
-For you, brothers, became **imitators** <br>
+For you, brothers, became imitators <br>
 of the churches of God in Christ Jesus <br>
 that are in Judea. 
 
-弟兄們，你們曾效法猶太中<br>
-在基督耶穌裡神的各教會；
-
-[1 Thessalonians 帖撒羅尼迦前書 2:14a (ESV)](# "ref")
-
----
-For you **suffered** the same things <br>
-from your own **countrymen** <br>
+For you suffered the same things <br>
+from your own countrymen <br>
 as they did from the Jews,
 
-因為你們也受了本地人的苦害，<br>
-像他們受了猶太人的苦害一樣。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:14b (ESV)](# "ref")
+[1 Thessalonians 2:14 (ESV)](# "ref")
 
 >>>
 + This suff is conseq of **repent**, of
@@ -223,27 +187,16 @@ as they did from the Jews,
   + felt we **betrayed** them, so they:
 
 ---
-who **killed** both <br>
+who killed both <br>
 the Lord Jesus and the prophets, <br>
-and **drove** us out, and **displease** God 
-
-這猶太人殺了主耶穌和先知，<br>
-又把我們趕出去。<br>
-他們不得神的喜悅，
-
-[1 Thessalonians 帖撒羅尼迦前書 2:15a (ESV)](# "ref")
-
----
-and **oppose** all mankind <br>
+and drove us out, <br>
+and displease God <br>
+and oppose all mankind <br>
 [16](# "ref")
-by **hindering** us from speaking to the Gentiles <br>
+by hindering us from speaking to the Gentiles <br>
 that they might be saved —
 
-且與眾人為敵；<br>
-不許我們傳道給外邦人<br>
-使外邦人得救，
-
-[1 Thessalonians 帖撒羅尼迦前書 2:15b-16a (ESV)](# "ref")
+[1 Thessalonians 2:15-16 (ESV)](# "ref")
 
 >>>
 + Regarding **Christ** + prophets: killed
@@ -254,27 +207,16 @@ that they might be saved —
   + Christ reminded His **disciples**:
 
 ---
-If they **persecuted** me, <br>
+If they persecuted me, <br>
 they will also persecute you. <br>
-If they **kept my word**, they will also keep yours. 
+If they kept my word, they will also keep yours. 
 
-他們若逼迫了我，<br>
-也要逼迫你們；<br>
-若遵守了我的話，<br>
-也要遵守你們的話。
-
-[John 約翰福音 15:20 (ESV)](# "ref")
-
----
+[21](# "ref")
 But all these things they will do to you <br>
-on account of **my name**, <br>
-because they do not **know** him who sent me.
+on account of my name, <br>
+because they do not know him who sent me.
 
-但他們因我的名<br>
-要向你們行這一切的事，<br>
-因為他們不認識那差我來的。
-
-[John 約翰福音 15:21 (ESV)](# "ref")
+[John 15:20-21 (ESV)](# "ref")
 
 >>>
 + If we **look** like Chr, **act** as He did,
@@ -284,15 +226,11 @@ because they do not **know** him who sent me.
 + End **result** for those who **oppose** gospel:
 
 ---
-so as always to **fill up** <br>
-the measure of their **sins**. <br>
-But **wrath** has come upon them at last!
+so as always to fill up <br>
+the measure of their sins. <br>
+But wrath has come upon them at last!
 
-常常充滿自己的罪惡。<br>
-神的忿怒臨在他們身上<br>
-已經到了極處。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:16b (ESV)](# "ref")
+[1 Thessalonians 2:16 (ESV)](# "ref")
 
 >>>
 + Accum more + more **sin**
@@ -310,9 +248,7 @@ But **wrath** has come upon them at last!
 
 ---
 <!-- .slide: data-background="white" -->
-# **Who** else has endured <br> **suffering** for the gospel?
-<!-- .element: class="r-fit-text" -->
-# 還有誰為福音的緣故受苦?
+# **Who** else has <br> endured **suffering** <br> for the gospel?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -327,14 +263,15 @@ But **wrath** has come upon them at last!
 + Who else has endured **suffering** for sake of gospel?
 
 ---
-<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> -->
-## Orphaned but not Unloved <br> 孤兒，但不是不被愛的
-When we feel 當我們感覺:
-1. Directionless 沒有方向 [(v13)](# "ref")
-1. Attacked 被攻擊 [(v14-16)](# "ref")
-1. **Forgotten 被遺忘** [(v17-20)](# "ref")
-
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" -->
+## Orphaned but not Unloved [(1Thes2)](# "ref")
 <!-- .element: class="r-fit-text" -->
+When we feel:
+1. Directionless [(v13)](# "ref")
+1. Attacked [(v14-16)](# "ref")
+1. **Forgotten** [(v17-20)](# "ref")
+
+<!-- .element: style="font-size: 1.6em" -->
 
 >>>
 + **Expect** gospel to encounter **opposition**
@@ -346,14 +283,11 @@ When we feel 當我們感覺:
   + as though they don't **care**: v17
 
 ---
-But since we were **torn away** from you, <br>
+But since we were torn away from you, <br>
 brothers, for a short time, <br>
-in **person** not in **heart**, 
+in person not in heart, 
 
-弟兄們，我們暫時與你們離別，<br>
-是面目離別，心裡卻不離別；
-
-[1 Thessalonians 帖撒羅尼迦前書 2:17a (ESV)](# "ref")
+[1 Thessalonians 2:17 (ESV)](# "ref")
 
 >>>
 + "torn away": **orphaned**, separated
@@ -368,23 +302,13 @@ in **person** not in **heart**,
 
 ---
 we endeavored the more eagerly and with <br>
-great desire to see you **face to face**,
-
-我們極力的想法子，<br>
-很願意見你們的面。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:17b (ESV)](# "ref")
-
----
+great desire to see you face to face, <br>
+[18](# "ref")
 because we wanted to come to you — <br>
 I, Paul, again and again — <br>
-but Satan **hindered** us. 
+but Satan hindered us. 
 
-所以我們有意到你們那裡；<br>
-我保羅有一兩次要去，<br>
-只是撒但阻擋了我們。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:18 (ESV)](# "ref")
+[1 Thessalonians 2:17-18 (ESV)](# "ref")
 
 >>>
 + had "great desire": **heat**, passion in hearts
@@ -400,25 +324,14 @@ but Satan **hindered** us.
 + bc **this** is what you **mean** to us:
 
 ---
-For what is our **hope** or joy <br>
-or **crown** of boasting <br>
-before our Lord Jesus at his **coming**? <br>
-Is it not you?
+For what is our hope or joy <br>
+or crown of boasting <br>
+before our Lord Jesus at his coming? <br>
+Is it not you? <br>
+[20](# "ref")
+For you are our glory and joy.
 
-我們的盼望和喜樂，<br>
-並所誇的冠冕是甚麼呢？<br>
-豈不是我們主耶穌來的時候，<br>
-你們在他面前站立得住麼？
-
-[1 Thessalonians 帖撒羅尼迦前書 2:19 (ESV)](# "ref")
-
----
-For you are our **glory and joy**.
-
-因為你們就是<br>
-我們的榮耀，我們的喜樂。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:20 (ESV)](# "ref")
+[1 Thessalonians 2:19-20 (ESV)](# "ref")
 
 >>>
 + We who **toil** in love for sake of name of Chr
@@ -433,9 +346,7 @@ For you are our **glory and joy**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Why should we continue <br> **growing** in faith in Christ?
-<!-- .element: class="r-fit-text" -->
-# 為什麼我們應該持續增長 <br> 在基督裡的信心?
+# Why should we <br> continue **growing** <br> in faith in Christ?
 <!-- .element: class="r-fit-text" -->
 
 >>>
