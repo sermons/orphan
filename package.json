@@ -1,7 +1,7 @@
 {
   "name": "@sermons/orphan",
   "repository": "sermons/orphaned",
-  "description": "1Thes2:13-20 孤兒，但不是不被愛的 Orphaned but not Unloved",
+  "description": "1Thes2:13-20 Orphaned but not Unloved",
   "keywords": [
     "sermon",
     "1thessalonians",
@@ -13,8 +13,8 @@
     "pretty_url": "",
     "cname": "orphan.seanho.com",
     "multiplex": {
-      "url": "https://reveal-multiplex.glitch.me/",
-      "id": "858d7641327592c2"
+      "url": "https://mp.seanho.com/",
+      "id": "f26632c1cdf75701"
     },
     "git": {
       "name": "Sean Ho",
