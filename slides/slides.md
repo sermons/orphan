@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> id="title" -->
-# Orphaned but <br> not Unloved
+# Orphaned but not Unloved
 <!-- .element: class="r-fit-text" -->
 
 ## 1 Thessalonians 2:13-20
@@ -43,9 +43,9 @@
 + To proclaim Your **Name** until the day of Your **return**
 
 ---
-<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
-# Growing Together, While Apart
-<!-- .element: class="r-fit-text" -->
+<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> -->
+## Growing Together, While Apart
+ <!-- .element: class="r-fit-text" -->
 
 | *1* | Impact of **Faith** | 
 |---|---|
@@ -55,6 +55,9 @@
 | *5a* | **Hope** of Salvation |
 | *5b* | Acts of **Faith** |
 
+
+<!-- .element: class="r-fit-text" -->
+
 >>>
 + Theme of 1Thess: encouragment **FHL**
 + 1st half: Thes' **rl** w/Paul + **response** to gospel
@@ -63,15 +66,17 @@
 + who endured great **suffering** for sake of gospel
 
 ---
-<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" id="outline" -->
-## Orphaned but not Unloved [(1Thes2)](# "ref")
-<!-- .element: class="r-fit-text" -->
-When we feel:
-1. Directionless [(v13)](# "ref")
-1. Attacked [(v14-16)](# "ref")
-1. Forgotten [(v17-20)](# "ref")
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> id="outline" -->
+## Orphaned but not Unloved
 
+When we feel:
 <!-- .element: style="font-size: 1.6em" -->
+
+1. **Directionless** [(v13)](# "ref")
+1. **Attacked** [(v14-16)](# "ref")
+1. **Forgotten** [(v17-20)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Looking for **wisdom**, guidance, mentorship: find none
@@ -83,11 +88,11 @@ When we feel:
 
 ---
 And we also thank God constantly for this, <br>
-that when you received the word of God, <br>
+that when you **received** the word of God, <br>
 which you heard from us, 
 
-you accepted it not as the word of men<br>
-but as what it really is, the word of God, <br>
+you **accepted** it not as the word of **men**<br>
+but as what it really is, the word of **God**, <br>
 which is at work in you believers. 
 
 [1 Thessalonians 2:13 (ESV)](# "ref")
@@ -107,11 +112,12 @@ which is at work in you believers.
 + James 1 has **promise** for each:
 
 ---
-But one who has looked intently <br>
-at the perfect law, the law of freedom, 
+
+But one who has **looked intently** <br>
+at the perfect law, the **law of freedom**, 
 
 and has continued in it, not having become <br>
-a forgetful hearer but an active doer, 
+a **forgetful hearer** but an **active doer**, 
 
 this person will be blessed in what he does.
 
@@ -146,15 +152,17 @@ this person will be blessed in what he does.
 + What is my **attitude** towards God's Word?
 
 ---
-<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" -->
-## Orphaned but not Unloved [(1Thes2)](# "ref")
-<!-- .element: class="r-fit-text" -->
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> -->
+## Orphaned but not Unloved
+
 When we feel:
+<!-- .element: style="font-size: 1.6em" -->
+
 1. Directionless [(v13)](# "ref")
 1. **Attacked** [(v14-16)](# "ref")
 1. Forgotten [(v17-20)](# "ref")
 
-<!-- .element: style="font-size: 1.6em" -->
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + When I feel **directionless** without a mentor:
@@ -163,12 +171,12 @@ When we feel:
   + Know that I'm not **alone** in suffering:
 
 ---
-For you, brothers, became imitators <br>
-of the churches of God in Christ Jesus <br>
+For you, brothers, became **imitators** <br>
+of the **churches** of God in Christ Jesus <br>
 that are in Judea. 
 
-For you suffered the same things <br>
-from your own countrymen <br>
+For you **suffered** the same things <br>
+from your own **countrymen** <br>
 as they did from the Jews,
 
 [1 Thessalonians 2:14 (ESV)](# "ref")
@@ -188,11 +196,10 @@ as they did from the Jews,
 
 ---
 who killed both <br>
-the Lord Jesus and the prophets, <br>
-and drove us out, <br>
-and displease God <br>
-and oppose all mankind <br>
-[16](# "ref")
+the Lord **Jesus** and the **prophets**, <br>
+and drove **us** out, <br>
+and displease **God** <br>
+and oppose all **mankind** <br>
 by hindering us from speaking to the Gentiles <br>
 that they might be saved —
 
@@ -207,14 +214,14 @@ that they might be saved —
   + Christ reminded His **disciples**:
 
 ---
-If they persecuted me, <br>
+If they **persecuted** me, <br>
 they will also persecute you. <br>
-If they kept my word, they will also keep yours. 
+If they **kept my word**, they will also keep yours. 
 
 [21](# "ref")
 But all these things they will do to you <br>
-on account of my name, <br>
-because they do not know him who sent me.
+on account of **my name**, <br>
+because they do not know him who **sent** me.
 
 [John 15:20-21 (ESV)](# "ref")
 
@@ -226,11 +233,11 @@ because they do not know him who sent me.
 + End **result** for those who **oppose** gospel:
 
 ---
-so as always to fill up <br>
-the measure of their sins. <br>
-But wrath has come upon them at last!
+so as always to **fill up** <br>
+the measure of their **sins**. <br>
+But **wrath** has come upon them at last!
 
-[1 Thessalonians 2:16 (ESV)](# "ref")
+[1 Thessalonians 2:16b (ESV)](# "ref")
 
 >>>
 + Accum more + more **sin**
@@ -263,15 +270,17 @@ But wrath has come upon them at last!
 + Who else has endured **suffering** for sake of gospel?
 
 ---
-<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="outline" -->
-## Orphaned but not Unloved [(1Thes2)](# "ref")
-<!-- .element: class="r-fit-text" -->
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> -->
+## Orphaned but not Unloved
+
 When we feel:
+<!-- .element: style="font-size: 1.6em" -->
+
 1. Directionless [(v13)](# "ref")
 1. Attacked [(v14-16)](# "ref")
 1. **Forgotten** [(v17-20)](# "ref")
 
-<!-- .element: style="font-size: 1.6em" -->
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Expect** gospel to encounter **opposition**
@@ -283,9 +292,9 @@ When we feel:
   + as though they don't **care**: v17
 
 ---
-But since we were torn away from you, <br>
-brothers, for a short time, <br>
-in person not in heart, 
+But since we were **torn away** from you, <br>
+brothers, for a **short** time, <br>
+in **person** not in **heart**, 
 
 [1 Thessalonians 2:17 (ESV)](# "ref")
 
@@ -301,12 +310,12 @@ in person not in heart,
 + Only for "short time": an **hour**'s time: will pass
 
 ---
-we endeavored the more eagerly and with <br>
+we endeavored the more **eagerly** and with <br>
 great desire to see you face to face, <br>
 [18](# "ref")
 because we wanted to come to you — <br>
-I, Paul, again and again — <br>
-but Satan hindered us. 
+I, Paul, **again and again** — <br>
+but **Satan** hindered us. 
 
 [1 Thessalonians 2:17-18 (ESV)](# "ref")
 
@@ -324,12 +333,11 @@ but Satan hindered us.
 + bc **this** is what you **mean** to us:
 
 ---
-For what is our hope or joy <br>
-or crown of boasting <br>
+For what is our **hope** or **joy** <br>
+or **crown** of boasting <br>
 before our Lord Jesus at his coming? <br>
 Is it not you? <br>
-[20](# "ref")
-For you are our glory and joy.
+For you are our **glory** and **joy**.
 
 [1 Thessalonians 2:19-20 (ESV)](# "ref")
 
@@ -346,7 +354,9 @@ For you are our glory and joy.
 
 ---
 <!-- .slide: data-background="white" -->
-# Why should we <br> continue **growing** <br> in faith in Christ?
+# Why should we continue <br> **growing** in faith in Christ?
+<!-- .element: class="r-fit-text" -->
+# 為什麼我們應該持續增長 <br> 在基督裡的信心?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -378,4 +388,3 @@ For you are our glory and joy.
   + Breathe in us to **live** again in Your life
   + Energise to **proclaim** Word w/all boldness
 + To **praise**, honour, glory of name of Chr at Your return
-
