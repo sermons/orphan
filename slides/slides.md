@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> id="title" -->
-# Orphaned but not Unloved
+# Orphaned <br> but not Unloved
 <!-- .element: class="r-fit-text" -->
 
 ## 1 Thessalonians 2:13-20
@@ -8,8 +8,6 @@
 + **Hard** to continue **growing** as Chr
   + **easy** to **slow** down, stop, even backslide
 + Can be **lonely** path to walk
-+ **Pandemic** gave some of us **plenty** of time w/loved ones
-  + "Lonely? Give me more **alone** time!" office, jog
 + In **walk** w/Chr, **all** of us exp loneliness
   + even amidst supportive **friends**, 
   + wonderful **family**, happy **marriage**
@@ -22,7 +20,7 @@
 >>>
 + Not just **happen** to be Chr who exp loneliness
 + But natural **conseq** of growing in faith is seasons of
-  + feeling **adrift**, w/guidance / mentorship
+  + feeling **adrift**, w/o guidance / mentorship
   + feeling **isolated** when under attack
   + feeling **forgotten** and unloved
 + This often **happens** as we follow in footsteps of 
@@ -45,18 +43,17 @@
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> -->
 ## Growing Together, While Apart
- <!-- .element: class="r-fit-text" -->
 
 | *1* | Impact of **Faith** | 
 |---|---|
-| *2a,b* | Toil of **Love** |
+| *2a* | Toil of **Love** |
+| *2b* | Orphaned but **Loved** |
 | *3* | Strength from **Hope** |
 | *4* | Growing in Purity + **Love** |
 | *5a* | **Hope** of Salvation |
 | *5b* | Acts of **Faith** |
 
-
-<!-- .element: class="r-fit-text" -->
+<!-- .element: style="font-size: 1.2em" -->
 
 >>>
 + Theme of 1Thess: encouragment **FHL**
@@ -76,7 +73,7 @@ When we feel:
 1. **Attacked** [(v14-16)](# "ref")
 1. **Forgotten** [(v17-20)](# "ref")
 
-<!-- .element: class="r-fit-text" -->
+<!-- .element: style="font-size: 1.6em" -->
 
 >>>
 + Looking for **wisdom**, guidance, mentorship: find none
@@ -335,7 +332,8 @@ but **Satan** hindered us.
 ---
 For what is our **hope** or **joy** <br>
 or **crown** of boasting <br>
-before our Lord Jesus at his coming? <br>
+before our Lord Jesus at his coming?
+
 Is it not you? <br>
 For you are our **glory** and **joy**.
 
@@ -355,8 +353,6 @@ For you are our **glory** and **joy**.
 ---
 <!-- .slide: data-background="white" -->
 # Why should we continue <br> **growing** in faith in Christ?
-<!-- .element: class="r-fit-text" -->
-# 為什麼我們應該持續增長 <br> 在基督裡的信心?
 <!-- .element: class="r-fit-text" -->
 
 >>>
