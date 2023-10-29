@@ -6,7 +6,7 @@
 
 >>>
 + **Hard** to continue **growing** as Chr
-  + **easy** to **slow** down, stop, even backslide
+  + may **slow**, stop, or backslide
 + Can be **lonely** path to walk
 + In **walk** w/Chr, **all** of us exp loneliness
   + even amidst supportive **friends**, 
@@ -14,16 +14,16 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How should I handle <br> **loneliness** in my <br> Christian walk?
+# How do I handle <br> **loneliness** in my <br> Christian walk?
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ Not just **happen** to be Chr who exp loneliness
-+ But natural **conseq** of growing in faith is seasons of
-  + feeling **adrift**, w/o guidance / mentorship
++ Not **failure** of faith
++ But natural **conseq** of growth: seasons
+  + feel **adrift**: guide/mentor
   + feeling **isolated** when under attack
   + feeling **forgotten** and unloved
-+ This often **happens** as we follow in footsteps of 
++ No **surprise**: follow footsteps of
   + Chr, the man of **sorrows**
 + Take comfort in His **presence** 
   + as we open up **Word** of God
@@ -31,11 +31,12 @@
 ______
 + Your Word promises 
   + You are near to the **brokenhearted**
-+ We **present** our hearts + lives before You
-+ Show us where we have wandered **astray**
-+ Guide us back **home** again to You our Creator
-+ In fellowship with **believers** worldwide
-+ To proclaim Your **Name** until the day of Your **return**
++ We **present** hearts + lives before You
++ Show us where wandered **astray**
++ Guide us back **home** to You Father
++ In fellwshp w/**believers** worldwide
++ To proclaim Your **Name** 
+  + until the day of Your **return**
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> -->
@@ -53,10 +54,12 @@ ______
 
 >>>
 + Theme of 1Thess: encouragment **FHL**
-+ 1st half: Thes' **rl** w/Paul + **response** to gospel
-  + 2nd half: addr **questions** / issues
-+ ch2: **encour** + deep **love** to **comfort** Thess, 
-+ who endured great **suffering** for sake of gospel
++ 1st half: Thes' **relationship** w/Paul 
+  + and **response** to gospel
++ 2nd half: addr **questions** / issues
++ ch2: **encour** + deep **love**: **comfort**
++ Thes endured great **suffering** 
+  + for sake of gospel
 
 ---
 <!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> id="outline" -->
@@ -76,7 +79,7 @@ When we feel:
 + Proclaim **gospel** causes **loved** ones to turn against us
   + **Hurt** deeply by **peer** group bc name of Jesus
 + Feel **forgotten** by those who claimed to **love** us in God
-+ Pay **attention** to how Paul **comforts** Thess:
++ **See** to how Paul **comforts** Thess:
   + and receive **encouragement**:
 
 ---
@@ -93,17 +96,17 @@ which is at work in you believers.
 [Aaron Burden](https://unsplash.com/photos/c333d6YEhi0 "caption")
 
 >>>
-+ Pastor/evangel: preach **Word** vs speak as **indiv**
++ Preach **Word** vs speak as **indiv**
   + pers **opinion**, advice from **exp**: word of **man**
 + But when share from **Scrip**, to extent holds **closely**:
   + Word of **God**: authority
   + Belongs to **God**, heard from **us**, taken up by **you**
 + "But **pastor** said its ok" (or **Sean**): don't want **resp**!
-+ **Ident**: not denom, polit affil, famous preacher
++ **ID**: not denom, polit affil, preacher
   + but as disciple of **Christ**
 + Each of us **accountable** before God for own actions
-  + I have **no** auth in self: only **Word** does
-+ e.g., teaching little kids what not to **eat**
+  + **no** auth in self: only **Word**
++ e.g., teach kids what not to **eat**
 + James 1 has **promise** for each:
 
 ---
@@ -120,12 +123,12 @@ this person will be blessed in what he does.
 [Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
-+ "look intently": bend over / **stoop down**
++ "look intently": bend / **stoop down**
   + inspect, **curious**
-+ **self-motivated**: not that God is **obtuse**, 
-  + but I need to **study** Scrip more deeply
++ **self-motiv**: God is not **obtuse**, 
+  + but need **study** Scrip deeply
 + Not mere **acad** interest (Bible trivia),
-  + but aim to **obey**: put **faith** into **action**
+  + but aim to **obey**: faith in **action**
 + Be **honest** w/self:
 
 ---
@@ -134,15 +137,17 @@ this person will be blessed in what he does.
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ Answer not to impress **pastor** / **friends**
-  + but for **self** + **God** who is at **work** in me
++ Answer not to **impress** others but
+  + for **self** + **God** at **work** in me
   + **empowering** me to be active **doer**
-+ S.times: could **care** less: **irrel**, diff **culture** / age
-+ Or when **tired** / stressed: flip through for **comfort**
++ Sometimes, I could **care** less:
+  + **irrel**, diff **culture** / age
++ Or **tired** / stressed: flip for **comfort**
   + but **encour** passages (like 1Thes!) seem **empty**
-+ Then get **angry** @God: are You so **naive** / blind
-  + to **real** pain / injustice suffered by **me** + others?
-+ Issue is not that Bible doesn't deal **head-on** w/sin
++ Then get **angry** at God: 
+  + are You so **naive** / blind to real
+  + pain / injust suff by **me** + others?
++ Not that Bible doesn't deal w/**sin**
   + but I don't want to **read** those passages
   + for fear of having to confront my **own** sin
 + What is my **attitude** towards God's Word?
