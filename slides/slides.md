@@ -28,10 +28,7 @@
 + Take comfort in His **presence** 
   + as we open up **Word** of God
   + to behold the **Lamb** of God
-
----
-## (prayer)
->>>
+______
 + Your Word promises 
   + You are near to the **brokenhearted**
 + We **present** our hearts + lives before You
@@ -43,6 +40,7 @@
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> -->
 ## Growing Together, While Apart
+<!-- .element: class="r-fit-text" -->
 
 | *1* | Impact of **Faith** | 
 |---|---|
@@ -52,8 +50,6 @@
 | *4* | Growing in Purity + **Love** |
 | *5a* | **Hope** of Salvation |
 | *5b* | Acts of **Faith** |
-
-<!-- .element: style="font-size: 1.2em" -->
 
 >>>
 + Theme of 1Thess: encouragment **FHL**
@@ -159,7 +155,7 @@ When we feel:
 1. **Attacked** [(v14-16)](# "ref")
 1. Forgotten [(v17-20)](# "ref")
 
-<!-- .element: class="r-fit-text" -->
+<!-- .element: style="font-size: 1.6em" -->
 
 >>>
 + When I feel **directionless** without a mentor:
@@ -215,7 +211,6 @@ If they **persecuted** me, <br>
 they will also persecute you. <br>
 If they **kept my word**, they will also keep yours. 
 
-[21](# "ref")
 But all these things they will do to you <br>
 on account of **my name**, <br>
 because they do not know him who **sent** me.
@@ -277,7 +272,7 @@ When we feel:
 1. Attacked [(v14-16)](# "ref")
 1. **Forgotten** [(v17-20)](# "ref")
 
-<!-- .element: class="r-fit-text" -->
+<!-- .element: style="font-size: 1.6em" -->
 
 >>>
 + **Expect** gospel to encounter **opposition**
@@ -308,10 +303,11 @@ in **person** not in **heart**,
 
 ---
 we endeavored the more **eagerly** and with <br>
-great desire to see you face to face, <br>
-[18](# "ref")
+great desire to see you face to face,
+
 because we wanted to come to you — <br>
-I, Paul, **again and again** — <br>
+I, Paul, **again and again** —
+
 but **Satan** hindered us. 
 
 [1 Thessalonians 2:17-18 (ESV)](# "ref")
@@ -352,7 +348,7 @@ For you are our **glory** and **joy**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Why should we continue <br> **growing** in faith in Christ?
+# Why should we <br> continue **growing** <br> in faith in Christ?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -370,7 +366,7 @@ For you are our **glory** and **joy**.
 + Why should we cont **growing** deeper in faith in Chr?
 
 ---
-## (prayer)
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> class="empty" -->
 >>>
 + When **directionless**: **delight** in Word + humbly **obey**.
 + When **hurt** by those who oppose You:
