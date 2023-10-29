@@ -80,6 +80,7 @@ When we feel:
   + and receive **encouragement**:
 
 ---
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 And we also thank God constantly for this, <br>
 that when you **received** the word of God, <br>
 which you heard from us, 
@@ -89,6 +90,7 @@ but as what it really is, the word of **God**, <br>
 which is at work in you believers. 
 
 [1 Thessalonians 2:13 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/c333d6YEhi0 "caption")
 
 >>>
 + Pastor/evangel: preach **Word** vs speak as **indiv**
@@ -105,7 +107,7 @@ which is at work in you believers.
 + James 1 has **promise** for each:
 
 ---
-
+<!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 But one who has **looked intently** <br>
 at the perfect law, the **law of freedom**, 
 
@@ -115,6 +117,7 @@ a **forgetful hearer** but an **active doer**,
 this person will be blessed in what he does.
 
 [James 1:25 (NASB)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
 + "look intently": bend over / **stoop down**
@@ -164,6 +167,7 @@ When we feel:
   + Know that I'm not **alone** in suffering:
 
 ---
+<!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
 For you, brothers, became **imitators** <br>
 of the **churches** of God in Christ Jesus <br>
 that are in Judea. 
@@ -173,6 +177,7 @@ from your own **countrymen** <br>
 as they did from the Jews,
 
 [1 Thessalonians 2:14 (ESV)](# "ref")
+[Mario Purisic](https://unsplash.com/photos/jG1z5o7NCq4 "caption")
 
 >>>
 + This suff is conseq of **repent**, of
@@ -188,6 +193,7 @@ as they did from the Jews,
   + felt we **betrayed** them, so they:
 
 ---
+<!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
 who killed both <br>
 the Lord **Jesus** and the **prophets**, <br>
 and drove **us** out, <br>
@@ -197,6 +203,7 @@ by hindering us from speaking to the Gentiles <br>
 that they might be saved —
 
 [1 Thessalonians 2:15-16 (ESV)](# "ref")
+[Luis Quintero](https://unsplash.com/photos/ibWxfQOePt4 "caption")
 
 >>>
 + Regarding **Christ** + prophets: killed
@@ -207,6 +214,7 @@ that they might be saved —
   + Christ reminded His **disciples**:
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 If they **persecuted** me, <br>
 they will also persecute you. <br>
 If they **kept my word**, they will also keep yours. 
@@ -216,6 +224,7 @@ on account of **my name**, <br>
 because they do not know him who **sent** me.
 
 [John 15:20-21 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
 + If we **look** like Chr, **act** as He did,
@@ -225,11 +234,13 @@ because they do not know him who **sent** me.
 + End **result** for those who **oppose** gospel:
 
 ---
+<!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
 so as always to **fill up** <br>
 the measure of their **sins**. <br>
 But **wrath** has come upon them at last!
 
 [1 Thessalonians 2:16b (ESV)](# "ref")
+[Łukasz Łada](https://unsplash.com/photos/q7z-AUlHPaw "caption")
 
 >>>
 + Accum more + more **sin**
@@ -284,11 +295,13 @@ When we feel:
   + as though they don't **care**: v17
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 But since we were **torn away** from you, <br>
 brothers, for a **short** time, <br>
 in **person** not in **heart**, 
 
 [1 Thessalonians 2:17 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + "torn away": **orphaned**, separated
@@ -302,6 +315,7 @@ in **person** not in **heart**,
 + Only for "short time": an **hour**'s time: will pass
 
 ---
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 we endeavored the more **eagerly** and with <br>
 great desire to see you face to face,
 
@@ -311,6 +325,7 @@ I, Paul, **again and again** —
 but **Satan** hindered us. 
 
 [1 Thessalonians 2:17-18 (ESV)](# "ref")
+[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
 
 >>>
 + had "great desire": **heat**, passion in hearts
@@ -326,6 +341,7 @@ but **Satan** hindered us.
 + bc **this** is what you **mean** to us:
 
 ---
+<!-- .slide: <%= bg("unsplash--6nDec_KT7U-crown.jpg") %> -->
 For what is our **hope** or **joy** <br>
 or **crown** of boasting <br>
 before our Lord Jesus at his coming?
@@ -334,6 +350,7 @@ Is it not you? <br>
 For you are our **glory** and **joy**.
 
 [1 Thessalonians 2:19-20 (ESV)](# "ref")
+[Sarah Penney](https://unsplash.com/photos/-6nDec_KT7U "caption")
 
 >>>
 + We who **toil** in love for sake of name of Chr
